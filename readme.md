@@ -52,3 +52,26 @@ The dataset includes key attributes necessary for exploring patterns, correlatio
 - Do stress levels negatively impact academic performance?
 - Are students with more sleep performing better?
 - Is the any **significant** difference in the average scores of various departments?
+
+----
+# Conclusion
+1. What factors contribute most to high student performance?
+    - Although there were biases regarding Total_Score and Grade, we refined our analysis by engineering features that better reflect performance, with features such as Participation_Score, Assignments_Avg, Quizzes_Avg, Projects_Score, Midterm_Score, and Final_Score.
+
+2. Does family background influence academic success?
+    - No. Both visualizations and hypothesis tests indicate no significant difference in performance among students from different family backgrounds.
+
+3. How does gender relate to scores?
+    - Gender has no correlation with Total_Score, as confirmed through statistical tests.
+
+4. Do extracurricular activities impact grades?
+    - No. Although participation in extracurricular activities varies among students, there is no statistically significant difference in academic performance between those who participate and those who do not.
+
+5. Do stress levels negatively impact academic performance?
+    - Stress levels do not significantly affect overall performance. Students who reported high stress and those with low stress had similar average scores, as confirmed by hypothesis testing.
+
+6. Are students with more sleep performing better?
+    - No strong relationship was found between sleep hours and academic performance.
+
+7. Is there a significant difference in the average scores across departments?
+    - No. There is no significant variation in average scores among the four departments.
