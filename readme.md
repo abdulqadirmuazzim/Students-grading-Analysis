@@ -1,5 +1,5 @@
 # #️⃣Introduction
-Welcome to the **students Performance analysis** where we interprete the data of the **Students performance dataset** in order to discover patterns and ways in which students are able to achieve good grades and high scores. We'll search for correlations between features as well as other relationships that will help us achieve our goal. In this project we'll of course handle missing values, sort out the biases in the data and normalize skewed distrubutions (if any)
+Welcome to the **Students Performance Analysis** where we interprete the data of the **Students Performance Dataset** in order to discover patterns and ways in which students are able to achieve good grades and high scores. We'll search for correlations between features as well as other relationships that will help us achieve our goal. In this project we'll of course handle missing values, sort out the biases in the data and normalize skewed distrubutions (if any). Check out the dashboard app [here](https://google.com)
 
 -------------------------
 ## 🎯Project goal
