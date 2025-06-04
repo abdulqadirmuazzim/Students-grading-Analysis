@@ -4,9 +4,9 @@ Welcome to the **Students Performance Analysis Project** where we interprete the
 ---
 ### Dashboard demo
 
-<video src="demo.mp4" width="750px" height="500px" autoplay loop muted ></video>
+<!-- <video src="demo.mp4" width="750px" height="500px" autoplay loop muted ></video> -->
 
-
+![](demo.mp4)
 
 -------------------------
 ## 🎯Project goal
